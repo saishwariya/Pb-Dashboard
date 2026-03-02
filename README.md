@@ -2,9 +2,9 @@
 Recommended Structure and Order
 1. Project Title / Headline
  
-A concise, descriptive name for the dashboard.
+ A concise, descriptive name for the dashboard.
 Example:
-Zomato Restaurant Data Analysis dashboard(Power BI)
+  Zomato Restaurant Data Analysis dashboard(Power BI)
    - Analyzed restaurant data to uncover trends in ratings, cuisines, and locations.
    - Designed interactive dashboards for business performance insights.
 
