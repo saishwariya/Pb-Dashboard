@@ -51,5 +51,6 @@ Walkthrough of Key Visuals
   Table Booking Analysis-Percentage of restaurants offering table reservation
 
 6. Screenshots / Demos
-Show what the dashboard looks like. Example:
+Show what the dashboard looks like.
+Example: ![Dasboard Preview] (https://github.com/saishwariya/Pb-Dashboard/blob/main/Zomatoprjt.png).
 
