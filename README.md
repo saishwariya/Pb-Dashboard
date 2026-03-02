@@ -16,10 +16,10 @@ It provides a complete overview of Zomato restaurant data and helps users unders
 List the key technologies used to buid the dashboard.
 Example:
 The dashboard was built using the following tools and technologies:
-📊Power BI Desktop - Main data visualization  platform used for report creation.
-📁File Format - .pbix for development and .png for dashboard previews.
-🧠 DAX (Data Analysis Expressions) - used for calculated measures, dynamic visuals, and conditional logic.
-📂Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+  📊Power BI Desktop - Main data visualization  platform used for report creation.
+  📁File Format - .pbix for development and .png for dashboard previews.
+  🧠 DAX (Data Analysis Expressions) - used for calculated measures, dynamic visuals, and conditional logic.
+  📂Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 
 4. Data Source
 More info on where the data comes from and how it's structured Example:Source :Zomato restaurant Analyis
