@@ -32,7 +32,12 @@ Developed an interactive Power BI dashboard to analyze 9,531+ Zomato restaurants
 
 5. Features / Highlights
    
-The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
+The best dashboard explanation format. 
+
+• Business problem 
+• Goal of the dashboard 
+• Walk through of key visuals (briefly!)
+• Business impact & Insights
 
 Walkthrough of Key Visuals
 *Executive KPI Summary Cards,Total Restaurants (9,531),Total Cities (140),Total Countries (14),Average Rating (2.89),Total Votes (1M+),Total Cuisines (800+)
