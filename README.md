@@ -35,8 +35,11 @@ Developed an interactive Power BI dashboard to analyze 9,531+ Zomato restaurants
 The best dashboard explanation format. 
 
 • Business problem 
+
 • Goal of the dashboard 
+
 • Walk through of key visuals (briefly!)
+
 • Business impact & Insights
 
 Walkthrough of Key Visuals
