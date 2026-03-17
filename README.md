@@ -25,11 +25,13 @@ Example:
              📂Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 
 4. Data Source
+   
 More info on where the data comes from and how it's structured Example:Source :Zomato restaurant Analyis
 
 Developed an interactive Power BI dashboard to analyze 9,531+ Zomato restaurants across 14 countries and 140 cities, providing insights into cuisine distribution, customer ratings, service availability, and geographic presence.
 
 5. Features / Highlights
+   
 The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
 
 Walkthrough of Key Visuals
