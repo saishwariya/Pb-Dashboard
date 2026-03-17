@@ -9,10 +9,8 @@ Example:
    - Designed interactive dashboards for business performance insights.
 
 2. Short description / Purpose
-   
 1-2 sentences explaining what the dashboard does and why it exists.
 Example:
-
 It provides a complete overview of Zomato restaurant data and helps users understand Developed an interactive Power BI dashboard to analyze 9,531+ Zomato restaurants across 14 countries and 140 cities, providing insights into cuisine distribution, customer ratings, service availability, and geographic presence.
 
 4. Tech Stack
